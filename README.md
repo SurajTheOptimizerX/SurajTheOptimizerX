@@ -28,8 +28,5 @@
 - **Tools:** VS Code, GitHub Actions, Docker  
 - **Domains:** DevOps, Data Science, AI/ML  
 
----
 
-## 🌐 Connect with Me
-[![Linkedin](https://www.linkedin.com/in/suraj-sahu-devops/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjHAAUpteRRiUjzO1MrJFzQ%3D%3D)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://YOUR_PORTFOLIO_URL)
+
