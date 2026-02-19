@@ -31,5 +31,5 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)](https://www.linkedin.com/in/suraj-sahu-devops/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjHAAUpteRRiUjzO1MrJFzQ%3D%3D)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://YOUR_PORTFOLIO_URL)
