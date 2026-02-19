@@ -19,7 +19,7 @@
 - 📈 **Contribution Graph**
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
 - 🏆 **GitHub Trophies**
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10&margin-h=10)
+ 
 
 ---
 
